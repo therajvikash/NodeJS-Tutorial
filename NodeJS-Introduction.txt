@@ -1,0 +1,101 @@
+			NodeJS
+                =======================
+- NodeJS is used to create server side application by using JavaScript or reast Api.
+- NodeJs is JavaScript run time enviorment (Not a framework or Library ).
+-Runs on Chrome's V8 engine.
+
+What you should know before starting the NodeJS?
+- Javascript (fxn, callbacks, promises .....).
+- NodeJS is written in c++
+
+Why should we use NodeJS?
+- it is light-weight and open source
+- sync(synchronus) --> code execute line by line it is called synchronus.
+- async(asynchronus) --> code execute without any restriction it is called asynchronus
+
+- same language we can use both side client side and server side.
+
+
+NodeJS :-
+ 3 Types of Modules we are using in NodeJS
+	Core-Module
+		1) FileSystem
+		2) http
+		3) os
+		4) path
+		5) url
+        	
+	Custom-Module:- we create your own module
+
+	third-party-library :-
+			Express
+			mongoose
+			bcryptjs
+			jwt
+			google
+			facebook
+
+- MongoDB
+- mullter
+- Mysql
+- oracle
+- herku deployment
+- stripe payment
+- paypal
+- nodemaller
+- reset password
+
+
+
+		Node Package manegar
+- npm --> Node package manegar
+- npm init --> package.json
+- used to install 3rd party modules
+- inalled module present in "node_modules" folder.
+- Dependent module store in package.json file.
+- npm install -g nodemon
+- nodemon --version
+
+
+ 				REPL Envoirment
+                   	    =======================
+R -> Read 
+E -> Eval 
+P -> Print
+L -> Loop
+
+Where we can Use Repl Enviorment?
+- We can use repl enviorment on any console window
+- We can excutejs program  in browser console window
+- open cmd and type it --> "node" then hit enter 
+
+
+			NodeJS Basics
+- Create workspace floder(NodeJS-Backend)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
