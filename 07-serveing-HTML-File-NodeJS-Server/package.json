@@ -1,0 +1,15 @@
+{
+  "name": "serving-html",
+  "version": "1.0.0",
+  "description": "Serving html file in nodejs server ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "author": "vicky",
+  "license": "MIT"
+}
